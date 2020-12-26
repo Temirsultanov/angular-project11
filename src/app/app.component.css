@@ -1,0 +1,11 @@
+.card-img-placeholder{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(33, 212, 138);
+}
+.card-red .card-img-placeholder{
+  background-color: rgb(209, 24, 24);
+}
+.card{
+  margin-top: 20px;
+}
